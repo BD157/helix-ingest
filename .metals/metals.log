@@ -1,0 +1,114 @@
+2025.11.06 12:55:07 INFO  Started: Metals version 1.6.3 in folders 'C:\Documents\Learning\Projects\Helix\spark-ingest' for client Visual Studio Code 1.105.1.
+2025.11.06 12:55:07 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.06 12:55:08 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 12:55:11 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 12:55:14 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 12:55:14 WARN  no build target for: C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt
+2025.11.06 12:55:14 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 12:55:14 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 12:55:30 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:26:19 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:28:32 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:28:32 WARN  no build target for: C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt
+2025.11.06 13:28:32 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:28:32 WARN  Could not find semantic tokens for: file:///C:/Documents/Learning/Projects/Helix/spark-ingest/project/plugins.sbt
+2025.11.06 13:28:32 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:28:32 WARN  Could not find semantic tokens for: file:///C:/Documents/Learning/Projects/Helix/spark-ingest/project/plugins.sbt
+2025.11.06 13:28:38 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:28:39 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:28:39 WARN  Could not find semantic tokens for: file:///C:/Documents/Learning/Projects/Helix/spark-ingest/project/plugins.sbt
+2025.11.06 13:28:39 WARN  no build target for: C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt
+2025.11.06 13:28:39 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:28:40 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:28:39 WARN  Could not find semantic tokens for: file:///C:/Documents/Learning/Projects/Helix/spark-ingest/project/plugins.sbt
+2025.11.06 13:28:41 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:28:41 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:28:42 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:28:41 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:28:42 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:28:42 WARN  Could not find semantic tokens for: file:///C:/Documents/Learning/Projects/Helix/spark-ingest/project/plugins.sbt
+2025.11.06 13:28:42 WARN  no build target for: C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt
+2025.11.06 13:28:42 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:28:42 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:28:42 WARN  Could not find semantic tokens for: file:///C:/Documents/Learning/Projects/Helix/spark-ingest/project/plugins.sbt
+2025.11.06 13:28:56 INFO  skipping build import with status 'Dismissed'
+2025.11.06 13:28:57 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:31:31 INFO  Shutting down server
+2025.11.06 13:31:31 INFO  shutting down Metals
+2025.11.06 13:31:31 INFO  Exiting server
+2025.11.06 13:32:23 INFO  Started: Metals version 1.6.3 in folders 'C:\Documents\Learning\Projects\Helix\spark-ingest' for client Visual Studio Code 1.105.1.
+2025.11.06 13:32:26 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.06 13:32:26 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:32:27 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:32:27 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:32:28 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:32:29 WARN  Could not find semantic tokens for: file:///C:/Documents/Learning/Projects/Helix/spark-ingest/project/plugins.sbt
+2025.11.06 13:32:31 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:32:33 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:32:33 WARN  no build target for: C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt
+2025.11.06 13:32:33 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:32:33 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:33:55 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:33:55 WARN  no build target for: C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt
+2025.11.06 13:33:55 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:33:55 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:33:55 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:33:55 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:33:56 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:20 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:23 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:23 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:23 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:24 WARN  no build target for: C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt
+2025.11.06 13:34:23 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:24 INFO  skipping build import with status 'Dismissed'
+2025.11.06 13:34:36 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:36 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:39 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:39 WARN  no build target for: C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala
+2025.11.06 13:34:39 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:40 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:40 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:40 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:43 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:44 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:45 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:45 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:45 WARN  no build target for: C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala
+2025.11.06 13:34:45 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:47 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 13:34:51 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.06 19:52:40 INFO  Shutting down server
+2025.11.06 19:52:40 INFO  shutting down Metals
+2025.11.06 19:52:40 INFO  Exiting server
+2025.11.15 20:03:01 INFO  Started: Metals version 1.6.3 in folders 'C:\Documents\Learning\Projects\Helix\spark-ingest' for client Visual Studio Code 1.105.1.
+2025.11.15 20:03:03 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.15 20:03:04 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.15 20:03:17 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.15 20:03:17 INFO  Shutting down server
+2025.11.15 20:03:17 INFO  shutting down Metals
+2025.11.15 20:03:17 INFO  Exiting server
+2025.11.15 20:03:18 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.12.26 13:30:21 INFO  Started: Metals version 1.6.4 in folders 'C:\Documents\Learning\Projects\Helix\spark-ingest' for client Visual Studio Code 1.107.1.
+2025.12.26 13:30:21 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.12.26 13:30:29 WARN  no build target for: C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala
+2025.12.26 13:30:29 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.26 13:30:31 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Dec 26, 2025 1:30:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2025.12.26 13:38:10 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.26 13:38:14 INFO  no build target found for C:\Documents\Learning\Projects\Helix\spark-ingest\src\main\scala\com\helix\ingest\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Dec 26, 2025 1:38:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

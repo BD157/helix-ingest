@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\helix-ingest-v3_2.12-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\classes\com\helix[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helix\ingest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\classes\com\helix\ingest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helix\ingest\bronze[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\classes\com\helix\ingest\bronze[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helix\ingest\bronze\RawIngest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\classes\com\helix\ingest\bronze\RawIngest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helix\ingest\bronze\RawIngest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\classes\com\helix\ingest\bronze\RawIngest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helix\ingest\gold[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\classes\com\helix\ingest\gold[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helix\ingest\gold\BuildAnalytics$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\classes\com\helix\ingest\gold\BuildAnalytics$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helix\ingest\gold\BuildAnalytics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\classes\com\helix\ingest\gold\BuildAnalytics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helix\ingest\Main$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\classes\com\helix\ingest\Main$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helix\ingest\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\classes\com\helix\ingest\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helix\ingest\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\classes\com\helix\ingest\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helix\ingest\silver[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\classes\com\helix\ingest\silver[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helix\ingest\silver\StandardizeData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\classes\com\helix\ingest\silver\StandardizeData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\helix\ingest\silver\StandardizeData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Documents\Learning\Projects\Helix\spark-ingest\target\scala-2.12\classes\com\helix\ingest\silver\StandardizeData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
