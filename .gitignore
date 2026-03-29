@@ -1,0 +1,6 @@
+
+
+# Scala / Metals / IDE artifacts
+.metals/
+.bloop/
+target/
