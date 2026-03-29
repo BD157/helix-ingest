@@ -8,8 +8,9 @@ lazy val root = (project in file("."))
 
     // Compile against Spark API; cluster provides jars.
     libraryDependencies ++= Seq(
-      "org.apache.spark" %% "spark-sql" % "3.5.1" % "provided" // OK for API; CDP will inject its own at runtime
+      "org.apache.spark" %% "spark-sql"   % "3.5.1"  % "provided", // OK for API; CDP will inject its own at runtime
       // Do NOT hard-pin Iceberg/Delta here for CDP runtime. We'll load via spark-submit --conf / cluster libs.
+      "com.typesafe"      %  "config"      % "1.4.3"               // HOCON pipeline config; bundled in the fat-jar
     ),
 
     // Where your Main lives
