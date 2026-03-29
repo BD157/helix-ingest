@@ -8,9 +8,9 @@ lazy val root = (project in file("."))
 
     // Compile against Spark API; cluster provides jars.
     libraryDependencies ++= Seq(
-      "org.apache.spark" %% "spark-sql"   % "3.5.1"  % "provided", // OK for API; CDP will inject its own at runtime
-      // Do NOT hard-pin Iceberg/Delta here for CDP runtime. We'll load via spark-submit --conf / cluster libs.
-      "com.typesafe"      %  "config"      % "1.4.3"               // HOCON pipeline config; bundled in the fat-jar
+      "org.apache.spark"  %% "spark-sql"                    % "3.5.1"  % "provided", // CDP will inject at runtime
+      "org.apache.iceberg" % "iceberg-spark-runtime-3.5_2.12" % "1.7.1",             // Iceberg Gold sink; bundled in fat-jar
+      "com.typesafe"       %  "config"                      % "1.4.3"                // HOCON pipeline config; bundled
     ),
 
     // Where your Main lives
@@ -29,9 +29,11 @@ lazy val root = (project in file("."))
     // Assembly settings
     assembly / test := {},
     assembly / assemblyMergeStrategy := {
-      case PathList("META-INF", xs @ _*) => MergeStrategy.discard
+      // Iceberg registers its catalog/extensions via Java SPI; concatenate so every provider survives.
+      case PathList("META-INF", "services", _*) => MergeStrategy.concat
+      case PathList("META-INF", _*)             => MergeStrategy.discard
       case x if x.endsWith("module-info.class") => MergeStrategy.discard
-      case x => MergeStrategy.first
+      case _                                    => MergeStrategy.first
     }
   )
 
